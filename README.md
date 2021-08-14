@@ -1,5 +1,5 @@
 Employee Database: A Mystery in Two Parts
-........
+.......
 Let’s assume that I am a new data engineer at Pewlett Hackard. My first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
 After designing an Entity Relationship Diagram (ERD), I utilized Data Engineering skills to design the tables, as seen in the schema.sql file, to hold data in the CSVs, import the CSVs into a SQL database, and then answered the following Data Analysis questions by writing queries in the queries.sql file: 
 
